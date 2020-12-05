@@ -7,9 +7,8 @@
 }
 
 body {
-    font-family: 'Dekko', cursive;
+    font-family: 'Open Sans', sans-serif;
 }
-
 
 
 .main {
@@ -18,9 +17,8 @@ body {
 }
 
 
-
-
 h1 {
+    font-family: 'Dekko', cursive;
     font-size: 40px;
     padding-top: 15px;
     padding-bottom: 15px;
